@@ -1,0 +1,24 @@
+-- create database Employee
+-- create table employeedetails(
+-- Emp_id int not null primary key,
+--  Emp_name varchar(30) not null,
+--  Job_name varchar(30) not null,
+--  Manager_id int not null,
+--  Hire_date varchar(30) not null,
+--  Salary int not null,
+--  Dep_id int not null
+-- );
+-- insert into employeedetails
+-- values(1,"anil","President","5678","2023-5-23","60000","1001");
+-- values(2,"ajay","Personal Assistant","5678","2023-5-23","6000","1001");
+-- values(3,"bhaskar","Police","5678","2023-5-23","64580","1001");
+-- values(4,"charan","Doctor","5656","2023-5-23","45678","1001");
+ -- values(5,"dhaya","Inspector","5678","2023-5-23","609870","1001");
+-- values(6,"Emanuel","PhotoGrapher","5678","2023-5-23","7000","1001");
+-- values(7,"Fahad","Lecturer","5678","2023-5-23","57700","1001");
+-- values(8,"Gokul","Cricketer","5678","2023-5-23","987600","1001");
+-- values(9,"Harsha","Dancer","5678","2023-5-23","8000","1001");
+-- values(10,"Raj","Pilot","5678","2023-5-23","60000","457001");
+-- select salary from employeedetails
+-- select distinct Job_name as Designations from employeedetails
+-- update employeedetails set Salary=50000 where Emp_name = "Raj";
